@@ -1,5 +1,5 @@
-# drawings
-Repository to hold my draw.io architecture, work flows, DFDs and other diagrams for various projects
+# Drawings
+Repository to hold my draw.io drawings for architecture, work flows, DFDs and other diagrams for various projects
 
 ## Projects
 
