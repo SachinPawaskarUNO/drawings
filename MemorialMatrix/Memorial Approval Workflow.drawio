@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T19:42:37.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9mzTiGy9tULV9_hK36nT" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T20:49:11.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GRe88bgt1cuKu_8sjjth" version="24.0.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1306" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="DhFFh8tWOYYWmh8P85Gl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DhFFh8tWOYYWmh8P85Gl-7" target="DhFFh8tWOYYWmh8P85Gl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DhFFh8tWOYYWmh8P85Gl-7" value="Submit a new Memorial of lost loved one." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacing=6;" parent="1" vertex="1">
+        <mxCell id="DhFFh8tWOYYWmh8P85Gl-7" value="Submit a new Memorial" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DhFFh8tWOYYWmh8P85Gl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DhFFh8tWOYYWmh8P85Gl-9" target="DhFFh8tWOYYWmh8P85Gl-22" edge="1">
@@ -97,7 +97,7 @@
         <mxCell id="DhFFh8tWOYYWmh8P85Gl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DhFFh8tWOYYWmh8P85Gl-31" target="DhFFh8tWOYYWmh8P85Gl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DhFFh8tWOYYWmh8P85Gl-31" value="Edit an existing published memorial.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacing=6;" parent="1" vertex="1">
+        <mxCell id="DhFFh8tWOYYWmh8P85Gl-31" value="Edit an existing Published Memorial.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="560" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
